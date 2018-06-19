@@ -1,0 +1,30 @@
+Aeron Greyjoy : inf
+Arianne Martell : 3
+Arys Oakheart : inf
+Asha Greyjoy : inf
+Barristan Selmy : 2
+Cersei Lannister : 3
+Jaime Lannister : 3
+Kevan Lannister : 3
+Merrett Frey : 3
+Quentyn Martell : 3
+Samwell Tarly : 5
+Theon Greyjoy : inf
+Victarion Greyjoy : inf
+Areo Hotah : 3
+Chett : inf
+Brienne of Tarth : 1
+Eddard Stark : 1
+Melisandre : inf
+Will : 4
+Duncan : inf
+Jon Connington : 2
+Cressen : inf
+Varamyr : inf
+Brandon Stark : 1
+Catelyn Stark : 1
+Jon Snow : 0
+Tyrion Lannister : 3
+Daenerys Targaryen : 2
+Davos Seaworth : 4
+Sansa Stark : 1
