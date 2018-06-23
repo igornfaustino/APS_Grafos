@@ -19,12 +19,12 @@ class Vertex(object):
     def __str__(self):
         "Value to use when call the function print"
 
-        return self.__name
+        return str(self.__name)
 
     def __repr__(self):
         "Value to use when use repr()"
 
-        return self.__name
+        return str(self.__name)
 
     def set_name(self, name):
         "Set a vertex name"

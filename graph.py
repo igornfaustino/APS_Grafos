@@ -27,6 +27,7 @@ class Graph(object):
         self.__firstSee = {}
         self.__close = {}
         self.__time = 0
+
     # edge function
     # start here
     def add_edge(self, source, destination, label=None, value=1):
@@ -358,18 +359,106 @@ class Graph(object):
                         return False
         return True
 
+    # Strongly Connected Components
+    # Start Here
+    def __DFSUtil(self, v, visited, component):
+        # Mark the current node as visited and print it
+        visited[v] = True
+        component.append(v)
+        # Recur for all the vertices adjacent to this vertex
+        for i in self.__adjacent_list[v]:
+            if not visited[i]:
+                self.__DFSUtil(i, visited, component)
+
+    def fillOrder(self, v, visited, stack):
+        # Mark the current node as visited
+        visited[v] = True
+        # Recur for all the vertices adjacent to this vertex
+        for i in self.__adjacent_list[v]:
+            if not visited[i]:
+                self.fillOrder(i, visited, stack)
+        stack = stack.append(v)
+
+    # Function that returns reverse (or transpose) of this graph
+    def getTranspose(self):
+        g = Graph(directed=True)
+
+        for v in self.get_all_vertex():
+            g.__adjacent_list[v] = []
+
+        # Recur for all the vertices adjacent to this vertex
+        for i in self.get_all_vertex():
+            for j in self.adjacents_vertex(i):
+                g.add_edge(j, i)
+        return g
+
+    # The main function that finds and prints all strongly
+    # connected components
+    def getSCCs(self):
+
+        stack = []
+        # Mark all the vertices as not visited (For first DFS)
+        visited = {}
+        for v in self.get_all_vertex():
+            visited[v] = False
+
+        # Fill vertices in stack according to their finishing
+        # times
+        for v in self.get_all_vertex():
+            if not visited[v]:
+                self.fillOrder(v, visited, stack)
+
+        # Create a reversed graph
+        gr = self.getTranspose()
+
+        # Mark all the vertices as not visited (For second DFS)
+        visited = {}
+        for v in self.get_all_vertex():
+            visited[v] = False
+
+        # Now process all vertices in order defined by Stack
+        components = []
+        i = 0
+        while stack:
+            v = stack.pop()
+            if not visited[v]:
+                components.append([])
+                gr.__DFSUtil(v, visited, components[i])
+                i += 1
+        return components
+    # End Here
+
 
 if __name__ == '__main__':
-    graph = Graph()
-    graph.add_vertex('teste')
-    graph.add_vertex('teste')
-    graph.add_vertex('teste2')
-    graph.add_edge(graph.get_vertex('teste'), graph.get_vertex('teste2'))
-    print(graph.adjacents_vertex(graph.get_vertex('teste')))
-    print(graph.get_order())
-    print(graph.get_all_edges())
-    myEdge = graph.get_edge_from_souce_destination(
-        graph.get_vertex('teste'), graph.get_vertex('teste2'))
-    graph.remove_vertex(graph.get_vertex('teste'))
-    print(graph.get_all_edges())
-    graph.print_adjacent_list()
+    # graph = Graph()
+    # graph.add_vertex('teste')
+    # graph.add_vertex('teste')
+    # graph.add_vertex('teste2')
+    # graph.add_edge(graph.get_vertex('teste'), graph.get_vertex('teste2'))
+    # print(graph.adjacents_vertex(graph.get_vertex('teste')))
+    # print(graph.get_order())
+    # print(graph.get_all_edges())
+    # myEdge = graph.get_edge_from_souce_destination(
+    #     graph.get_vertex('teste'), graph.get_vertex('teste2'))
+    # graph.remove_vertex(graph.get_vertex('teste'))
+    # print(graph.get_all_edges())
+    # graph.print_adjacent_list()
+
+    # Create a graph given in the above diagram
+    g = Graph(directed=True)
+    g.add_vertex(0)
+    g.add_vertex(1)
+    g.add_vertex(2)
+    g.add_vertex(3)
+    g.add_vertex(4)
+    g.add_edge(g.get_vertex(1), g.get_vertex(0))
+    g.add_edge(g.get_vertex(0), g.get_vertex(2))
+    g.add_edge(g.get_vertex(2), g.get_vertex(1))
+    g.add_edge(g.get_vertex(0), g.get_vertex(3))
+    g.add_edge(g.get_vertex(3), g.get_vertex(4))
+
+    print ("Following are strongly connected components " +
+           "in given graph")
+    print(g.getSCCs())
+    print(len(g.getSCCs()))
+    # This code is contributed by Neelam Yadav

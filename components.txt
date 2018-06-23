@@ -1,0 +1,1738 @@
+[Jayde]
+------------------------
+[Qarlton Chelsted]
+------------------------
+[Notch]
+------------------------
+[Kyle]
+------------------------
+[Willamen Frey]
+------------------------
+[Hamish]
+------------------------
+[Quentyn Ball]
+------------------------
+[Layna]
+------------------------
+[Helliweg]
+------------------------
+[Dennett]
+------------------------
+[Lucifer Hardy]
+------------------------
+[Rast]
+------------------------
+[Lancel V Lannister]
+------------------------
+[Jon Vance]
+------------------------
+[Patrek Vance]
+------------------------
+[Tormund]
+------------------------
+[Ferret]
+------------------------
+[Rafe]
+------------------------
+[Moribald Chester]
+------------------------
+[Qarl]
+------------------------
+[Tansy]
+------------------------
+[Garin]
+------------------------
+[Helly]
+------------------------
+[Gyleno Dothare]
+------------------------
+[Herbert Bolling]
+------------------------
+[Rolland Longthorpe]
+------------------------
+[Ottomore]
+------------------------
+[Theobald]
+------------------------
+[Othor]
+------------------------
+[Matt]
+------------------------
+[Gerardys]
+------------------------
+[Nymos]
+------------------------
+[Harren Hoare]
+------------------------
+[Robin Hill]
+------------------------
+[Tristan Mudd]
+------------------------
+[Torbert]
+------------------------
+[Joss]
+------------------------
+[Conn son of Coratt]
+------------------------
+[Roone]
+------------------------
+[Zhoe Blanetree]
+------------------------
+[Mawney]
+------------------------
+[Kedry]
+------------------------
+[Jaehaerys I]
+------------------------
+[Albett]
+------------------------
+[Robert I Baratheon]
+------------------------
+[Hairy Hal]
+------------------------
+[Malcolm]
+------------------------
+[Ygon]
+------------------------
+[Bearded Ben]
+------------------------
+[Merrit]
+------------------------
+[Cafferen]
+------------------------
+[Borcas]
+------------------------
+[Joseran]
+------------------------
+[Beardless Dick]
+------------------------
+[Harrag Hoare]
+------------------------
+[Joffrey Baratheon]
+------------------------
+[Kezmya]
+------------------------
+[Willow Heddle]
+------------------------
+[Jaremy Rykker]
+------------------------
+[Scarb]
+------------------------
+[Hazrak zo Loraq]
+------------------------
+[Marianne Vance]
+------------------------
+[Grazdan zo Galare]
+------------------------
+[Vaellyn]
+------------------------
+[Matthar]
+------------------------
+[Gerrick]
+------------------------
+[Easy]
+------------------------
+[Penny]
+------------------------
+[Boremund Harlaw]
+------------------------
+[Mullin]
+------------------------
+[Fornio]
+------------------------
+[Jafer Flowers]
+------------------------
+[Wallen]
+------------------------
+[Alayaya]
+------------------------
+[Kyleg]
+------------------------
+[Duncan]
+------------------------
+[Kraznys mo Nakloz]
+------------------------
+[Pypar]
+------------------------
+[Serra]
+------------------------
+[Rugen]
+------------------------
+[Willis Fell, Harwood Fell]
+------------------------
+[Puddingfoot]
+------------------------
+[Lormelle]
+------------------------
+[Norne Goodbrother]
+------------------------
+[Moredo Prestayn]
+------------------------
+[Mad Huntsman]
+------------------------
+[Skyte]
+------------------------
+[Ezzelyno]
+------------------------
+[Bennet]
+------------------------
+[Cressen]
+------------------------
+[Mallador Locke]
+------------------------
+[Bael]
+------------------------
+[Guyne]
+------------------------
+[Jon Cupps]
+------------------------
+[Iggo]
+------------------------
+[Mandon Moore]
+------------------------
+[Pello of Tyrosh]
+------------------------
+[Duram Bar Emmon]
+------------------------
+[Ned Woods]
+------------------------
+[Jon Myre]
+------------------------
+[Frenya]
+------------------------
+[Monster]
+------------------------
+[Emmond]
+------------------------
+[Stiv]
+------------------------
+[Raynard]
+------------------------
+[Grazdan mo Ullhor]
+------------------------
+[Byan Votyris]
+------------------------
+[Belis]
+------------------------
+[Urrathon]
+------------------------
+[Quence]
+------------------------
+[Urreg]
+------------------------
+[Robb Stark]
+------------------------
+[Harghaz]
+------------------------
+[Pollitor]
+------------------------
+[Xaro Xhoan Daxos]
+------------------------
+[Simon Leygood]
+------------------------
+[Morna White Mask]
+------------------------
+[All-for-Joffrey]
+------------------------
+[Arrec Durrandon]
+------------------------
+[Daeryssa]
+------------------------
+[Hunnimore]
+------------------------
+[Great Walrus]
+------------------------
+[Triston Sunderland]
+------------------------
+[Maggy]
+------------------------
+[Norjen]
+------------------------
+[Wendello Qar Deeth]
+------------------------
+[Dryn]
+------------------------
+[Cetheres]
+------------------------
+[Jacelyn Bywater]
+------------------------
+[Narbert]
+------------------------
+[Jenny of Oldstones]
+------------------------
+[Joth Quickbow]
+------------------------
+[Mathos Mallarawan]
+------------------------
+[Garigus]
+------------------------
+[Bethany]
+------------------------
+[Kirby Pimm]
+------------------------
+[Ysilla]
+------------------------
+[Nail]
+------------------------
+[Bowen Marsh]
+------------------------
+[Zharaq zo Loraq]
+------------------------
+[Tregar Ormollen]
+------------------------
+[Serwyn]
+------------------------
+[Jaggot]
+------------------------
+[Softfoot]
+------------------------
+[Nettles]
+------------------------
+[Omer Florent]
+------------------------
+[Grisella]
+------------------------
+[Utt]
+------------------------
+[Dareon]
+------------------------
+[Eldiss]
+------------------------
+[Lenyl]
+------------------------
+[Grazdan]
+------------------------
+[Conwy]
+------------------------
+[Borroq]
+------------------------
+[Lync]
+------------------------
+[Lark]
+------------------------
+[Stalwart Shield]
+------------------------
+[Tremond Gargalen]
+------------------------
+[The Nightingale]
+------------------------
+[Big Belly Ben]
+------------------------
+[Devyn]
+------------------------
+[Grigg]
+------------------------
+[Preston Greenfield, Garth Greenfield]
+------------------------
+[Brown Bernarr]
+------------------------
+[Jate]
+------------------------
+[Bessa]
+------------------------
+[Blane]
+------------------------
+[Zei]
+------------------------
+[Woth]
+------------------------
+[Left Hand Lew]
+------------------------
+[Craster]
+------------------------
+[Osmynd]
+------------------------
+[Hizdahr zo Loraq]
+------------------------
+[Brusco]
+------------------------
+[Ollo]
+------------------------
+[Orivel]
+------------------------
+[Gavin]
+------------------------
+[Loren I Lannister]
+------------------------
+[Noho Dimittis]
+------------------------
+[Lenwood Tawney]
+------------------------
+[Pono]
+------------------------
+[Otter Gimpknee]
+------------------------
+[Alaric of Eysen]
+------------------------
+[Lotho Lornel]
+------------------------
+[Shagga, son of Dolf]
+------------------------
+[Meralyn]
+------------------------
+[Harras Harlaw]
+------------------------
+[Pyat Pree]
+------------------------
+[Umar]
+------------------------
+[Lucas Nayland, Raymond Nayland]
+------------------------
+[Beck]
+------------------------
+[Rainbow Knight]
+------------------------
+[Agrivane]
+------------------------
+[Lenn]
+------------------------
+[Chella daughter of Cheyk]
+------------------------
+[The Smiling Knight]
+------------------------
+[Josmyn Peckledon]
+------------------------
+[Spare Boot]
+------------------------
+[Assadora]
+------------------------
+[Clydas]
+------------------------
+[Cossomo]
+------------------------
+[Bonifer Hasty]
+------------------------
+[Egon Emeros]
+------------------------
+[Alysanne Targaryen]
+------------------------
+[Byam Flint]
+------------------------
+[Dhazzar]
+------------------------
+[Steeelskin]
+------------------------
+[Garlan Tyrell, Leonette Fossoway]
+------------------------
+[Sky Blue Su]
+------------------------
+[Beldecar]
+------------------------
+[Roggo]
+------------------------
+[Meizo Mahr]
+------------------------
+[Vyman]
+------------------------
+[Garth Greenhand]
+------------------------
+[Violet]
+------------------------
+[Arron]
+------------------------
+[Qyle]
+------------------------
+[Styr]
+------------------------
+[Donnel]
+------------------------
+[Grey King]
+------------------------
+[Hod]
+------------------------
+[Yna]
+------------------------
+[Allaquo]
+------------------------
+[Ragwyle]
+------------------------
+[Rymund]
+------------------------
+[Moonshadow]
+------------------------
+[Squirrel]
+------------------------
+[Arneld]
+------------------------
+[Timett, son of Timett]
+------------------------
+[Royce Coldwater]
+------------------------
+[Ben Bushy]
+------------------------
+[Aegon IV]
+------------------------
+[Torwold]
+------------------------
+[Cohollo]
+------------------------
+[Melaquin]
+------------------------
+[Bedwyck]
+------------------------
+[Tristimun]
+------------------------
+[Mebble]
+------------------------
+[Erreck]
+------------------------
+[Lambert Turnberry]
+------------------------
+[Lymond Vikary]
+------------------------
+[Arson]
+------------------------
+[Beqqo]
+------------------------
+[Lorren]
+------------------------
+[Gendry]
+------------------------
+[Pate of Mory]
+------------------------
+[Denyo Terys]
+------------------------
+[Qhorin]
+------------------------
+[Marghaz zo Loraq]
+------------------------
+[Ferny]
+------------------------
+[Ocley]
+------------------------
+[Briar]
+------------------------
+[Garth Greyfeather]
+------------------------
+[Varamyr]
+------------------------
+[Mance Rayder]
+------------------------
+[Walys Flowers]
+------------------------
+[Eroeh]
+------------------------
+[Qezza]
+------------------------
+[Bharbo]
+------------------------
+[Grazdar zo Galare]
+------------------------
+[Maekar I]
+------------------------
+[Olyvar Oakheart, Alester Oakheart, Arys Oakheart, Arwyn Oakheart, Edgerran Oakheart]
+------------------------
+[The Weeper]
+------------------------
+[Melicent]
+------------------------
+[Elyas Willum, Josua Willum]
+------------------------
+[Aerys II]
+------------------------
+[Garth XII Gardener]
+------------------------
+[Lucantine Woodwright]
+------------------------
+[Tristifer IV Mudd]
+------------------------
+[Daeron II]
+------------------------
+[Mero]
+------------------------
+[Gilly]
+------------------------
+[Khorane Sathmantes]
+------------------------
+[Tysha]
+------------------------
+[Aegon I]
+------------------------
+[Sloey]
+------------------------
+[Jeyne Heddle]
+------------------------
+[Ulmer]
+------------------------
+[Malleon]
+------------------------
+[Romny Weaver]
+------------------------
+[Satin]
+------------------------
+[Chayle]
+------------------------
+[Willifer]
+------------------------
+[Torrek]
+------------------------
+[Symon]
+------------------------
+[Hobb]
+------------------------
+[Criston Cole]
+------------------------
+[Marillion]
+------------------------
+[Beric Dondarrion, Manfred Dondarrion]
+------------------------
+[Rodrik Flint]
+------------------------
+[Hali]
+------------------------
+[Dolf son of Holger]
+------------------------
+[Gyles]
+------------------------
+[Tobho Mott]
+------------------------
+[Ebrose]
+------------------------
+[Lomys]
+------------------------
+[Masha Heddle]
+------------------------
+[Doss]
+------------------------
+[Rennifer Longwaters]
+------------------------
+[Frankyln Fowler]
+------------------------
+[Melisandre]
+------------------------
+[Kegs]
+------------------------
+[Mully]
+------------------------
+[Brea]
+------------------------
+[Camarron]
+------------------------
+[Morosh the Myrman]
+------------------------
+[Timett]
+------------------------
+[Symond Templeton]
+------------------------
+[Owen Norrey, Brandon Norrey]
+------------------------
+[Bella]
+------------------------
+[Todder]
+------------------------
+[Illyrio's first wife]
+------------------------
+[Harry Sawyer]
+------------------------
+[Robin Potter]
+------------------------
+[Quhuru Mo]
+------------------------
+[Urron Greyiron]
+------------------------
+[Rolley of Sisterton]
+------------------------
+[Sybassion]
+------------------------
+[Jeyne Poole, Vayon Poole]
+------------------------
+[Ogo]
+------------------------
+[Grubbs]
+------------------------
+[Ardrian Celtigar]
+------------------------
+[Draqaz]
+------------------------
+[Gunthor son of Gurn]
+------------------------
+[Tarle]
+------------------------
+[Luke]
+------------------------
+[Willum]
+------------------------
+[Dobber]
+------------------------
+[Galazza Galare]
+------------------------
+[Lady of the Leaves]
+------------------------
+[Lysono Maar]
+------------------------
+[Sigfryd Harlaw]
+------------------------
+[Miklaz]
+------------------------
+[Orton Merryweather, Taena of Myr, Russell Merryweather]
+------------------------
+[Gyles III Gardener]
+------------------------
+[Danny Flint]
+------------------------
+[Cassella Vaith, Daeron Vaith]
+------------------------
+[Redwyn]
+------------------------
+[Mortimer Boggs]
+------------------------
+[Todric]
+------------------------
+[Richard Lonmouth, Joffrey Lonmouth]
+------------------------
+[Mollander]
+------------------------
+[Donyse]
+------------------------
+[Cass]
+------------------------
+[Meliana]
+------------------------
+[Zekko]
+------------------------
+[Mother Mole]
+------------------------
+[Saathos]
+------------------------
+[Ygritte]
+------------------------
+[Alan of Rosby]
+------------------------
+[Orbelo]
+------------------------
+[Ormond]
+------------------------
+[Alyce Graceford]
+------------------------
+[Quaro]
+------------------------
+[Gyldayn]
+------------------------
+[Boros Blount]
+------------------------
+[Ollidor]
+------------------------
+[Alesandor Torrent]
+------------------------
+[Lucos Chyttering]
+------------------------
+[Pylos]
+------------------------
+[Temmo]
+------------------------
+[High Septon]
+------------------------
+[Meldred Merlyn]
+------------------------
+[Togg Joth]
+------------------------
+[Dudley]
+------------------------
+[Jhaqo]
+------------------------
+[Old Tattersalt]
+------------------------
+[Kenned]
+------------------------
+[Joramun]
+------------------------
+[Maslyn]
+------------------------
+[Tanselle]
+------------------------
+[Ebben]
+------------------------
+[Willow]
+------------------------
+[Alesander Staedmon]
+------------------------
+[Quill]
+------------------------
+[Donnor Saltcliffe]
+------------------------
+[Edmund Waxley]
+------------------------
+[Ketter]
+------------------------
+[Munciter]
+------------------------
+[Buu]
+------------------------
+[Aegon V]
+------------------------
+[Maegor I]
+------------------------
+[Quaithe]
+------------------------
+[Rudge]
+------------------------
+[Richard Morrigen, Guyard Morrigen, Grance Morrigen, Lester Morrigen]
+------------------------
+[Sedgekins]
+------------------------
+[Medwick Tyrell]
+------------------------
+[Balon Greyjoy]
+------------------------
+[Galt]
+------------------------
+[Hallyne]
+------------------------
+[Kindly Man]
+------------------------
+[Illifer]
+------------------------
+[Scolera]
+------------------------
+[Orphan Oss]
+------------------------
+[Torghen Flint]
+------------------------
+[Shyra Errol, Sebastion Errol]
+------------------------
+[Collio Quaynis]
+------------------------
+[Baelor Blacktyde, Beron Blacktyde]
+------------------------
+[Mollos]
+------------------------
+[Gareth]
+------------------------
+[Gueren]
+------------------------
+[Harmune]
+------------------------
+[Lothar Mallery]
+------------------------
+[Malliard]
+------------------------
+[Grazdan the Great]
+------------------------
+[Ternesio Terys]
+------------------------
+[Hugor of the Hill]
+------------------------
+[Ulf son of Umar]
+------------------------
+[Lord Belgrave]
+------------------------
+[Greydon Goodbrother, Gorold Goodbrother, Gormond Goodbrother, Gwin Goodbrother, Gysella Goodbrother, Gran Goodbrother]
+------------------------
+[Jurne]
+------------------------
+[Daegon Shepherd, Qarl Shepherd]
+------------------------
+[Selmond Stackspear, Steffon Stackspear, Alyn Stackspear]
+------------------------
+[Husband]
+------------------------
+[Jommo]
+------------------------
+[Small Paul]
+------------------------
+[Thoren Smallwood]
+------------------------
+[Roger of Pennytree]
+------------------------
+[Symeon Star-Eyes]
+------------------------
+[Robin]
+------------------------
+[Tumco Lho]
+------------------------
+[Mago]
+------------------------
+[Khrazz]
+------------------------
+[Jorquen]
+------------------------
+[Karl]
+------------------------
+[Sherrit]
+------------------------
+[Jon Pox]
+------------------------
+[Mag Mar Tun Doh Weg]
+------------------------
+[Black Bernarr]
+------------------------
+[Oswyn]
+------------------------
+[Gulian]
+------------------------
+[Courteny Greenhill]
+------------------------
+[Tommen Baratheon]
+------------------------
+[Torwynd]
+------------------------
+[Gyloro Dothare]
+------------------------
+[Grazdan mo Eraz]
+------------------------
+[Cotter Pyke]
+------------------------
+[Urswyck]
+------------------------
+[Crawn son of Calor]
+------------------------
+[Aegon II]
+------------------------
+[Terrance Lynderly, Jon Lynderly]
+------------------------
+[Biter]
+------------------------
+[Elder Brother]
+------------------------
+[Garth of Oldtown]
+------------------------
+[Jon Penny]
+------------------------
+[Old Grey Gull]
+------------------------
+[Randa]
+------------------------
+[Azor Ahai]
+------------------------
+[Ryn]
+------------------------
+[Walgrave]
+------------------------
+[Mirri Maz Duur]
+------------------------
+[Oznak zo Pahl]
+------------------------
+[Craghas Drahar]
+------------------------
+[Racallio Ryndoon]
+------------------------
+[Hugh Hammer]
+------------------------
+[Ghael]
+------------------------
+[Regenard Estren]
+------------------------
+[Chett]
+------------------------
+[Meha]
+------------------------
+[Andrey Dalt, Deziel Dalt]
+------------------------
+[Cheyk]
+------------------------
+[Viserys I]
+------------------------
+[Elron]
+------------------------
+[Alyce]
+------------------------
+[Martyn Mullendore, Mark Mullendore]
+------------------------
+[Balman Byrch, Falyse Stokeworth, Tanda Stokeworth, Lollys Stokeworth, Tyrion Tanner, Bronn]
+------------------------
+[Marq Rankenfell]
+------------------------
+[Zarabelo]
+------------------------
+[Emmett]
+------------------------
+[Clement]
+------------------------
+[Steffon Darklyn, Denys Darklyn, Rolland Darklyn, Serala of Myr]
+------------------------
+[Galyeon of Cuy]
+------------------------
+[Stonesnake]
+------------------------
+[Oro Tendyris]
+------------------------
+[Clifford Conklyn]
+------------------------
+[Ryles]
+------------------------
+[Tothmure]
+------------------------
+[Hazzea]
+------------------------
+[Qotho]
+------------------------
+[Terro]
+------------------------
+[Kurz]
+------------------------
+[Hugo Wull, Theo Wull]
+------------------------
+[Tommen Costayne, Aemon Costayne, Tom Costayne]
+------------------------
+[Rigney]
+------------------------
+[Spotted Pate]
+------------------------
+[Larraq]
+------------------------
+[Qarro Volentin]
+------------------------
+[Kojja Mo]
+------------------------
+[Leathers]
+------------------------
+[Danelle Lothston, Manfryd Lothston, Manfred Lothston]
+------------------------
+[Owen]
+------------------------
+[Renfred Rykker, Rufus Leek]
+------------------------
+[Harren Half-Hoare]
+------------------------
+[Ulf the White]
+------------------------
+[Lewis Lanster]
+------------------------
+[Bump]
+------------------------
+[Rosey]
+------------------------
+[Lennocks]
+------------------------
+[Allar Deem]
+------------------------
+[Jon Waters]
+------------------------
+[Tim Stone]
+------------------------
+[Normund Tyrell]
+------------------------
+[Galtry the Green]
+------------------------
+[Gerald Gower]
+------------------------
+[Young Henly]
+------------------------
+[Emmon Cuy, Branston Cuy]
+------------------------
+[Toefinger]
+------------------------
+[Stonehand]
+------------------------
+[Chiggen]
+------------------------
+[Creighton Longbough]
+------------------------
+[Maerie]
+------------------------
+[Aethan]
+------------------------
+[Forley Prester, Garrison Prester]
+------------------------
+[Moqorro]
+------------------------
+[Desmond Grell]
+------------------------
+[Watty]
+------------------------
+[Halder]
+------------------------
+[Raymun Redbeard]
+------------------------
+[Marei]
+------------------------
+[Barre]
+------------------------
+[Spotted Cat]
+------------------------
+[Lothar]
+------------------------
+[Hop-Robin]
+------------------------
+[Aglantine]
+------------------------
+[Boy]
+------------------------
+[Jalabhar Xho]
+------------------------
+[Endehar]
+------------------------
+[Maron Volmark]
+------------------------
+[Gurn]
+------------------------
+[Stone Thumbs]
+------------------------
+[Timeon]
+------------------------
+[Liane Vance, Karyl Vance, Rhialta Vance, Emphyria Vance]
+------------------------
+[Griffin King]
+------------------------
+[Cellador]
+------------------------
+[Thoros of Myr]
+------------------------
+[Ryk]
+------------------------
+[Shella]
+------------------------
+[Argilac Durrandon]
+------------------------
+[Erena Glover, Gawen Glover, Galbart Glover, Sybelle Glover, Ondrew Locke, Donnel Locke, Ethan Glover, Robett Glover]
+------------------------
+[Kyle Condon]
+------------------------
+[Triston Farwynd]
+------------------------
+[Jarman Buckwell]
+------------------------
+[Torren Liddle]
+------------------------
+[Rorge]
+------------------------
+[Byren Flowers]
+------------------------
+[Ferrego Antaryon]
+------------------------
+[Goghor]
+------------------------
+[Dyah]
+------------------------
+[Clarence Charlton, Andrey Charlton]
+------------------------
+[Grenn]
+------------------------
+[Tybolt Hetherspoon, Melara Hetherspoon]
+------------------------
+[Koss]
+------------------------
+[Jezhene]
+------------------------
+[Tumberjon]
+------------------------
+[Bodger]
+------------------------
+[Red Oarsman]
+------------------------
+[Chataya]
+------------------------
+[Podrick Payne, Ilyn Payne, Cedric Payne]
+------------------------
+[Ayrmidon]
+------------------------
+[Alysanne Bulwer, Buford Bulwer, Jon Bulwer]
+------------------------
+[Manfryd Yew]
+------------------------
+[Old Henly]
+------------------------
+[Jeren]
+------------------------
+[Narbo]
+------------------------
+[Weasel]
+------------------------
+[Marq Piper, Clement Piper, Lewys Piper]
+------------------------
+[Gerold Dayne]
+------------------------
+[Haggo]
+------------------------
+[Shagwell]
+------------------------
+[Umma]
+------------------------
+[Tarber]
+------------------------
+[Bellegere Otherys]
+------------------------
+[Pudding]
+------------------------
+[Nolla]
+------------------------
+[Luco Prestayn]
+------------------------
+[Fogo]
+------------------------
+[Ned]
+------------------------
+[Hubard Rambton]
+------------------------
+[Yormwell]
+------------------------
+[Haggon]
+------------------------
+[Coldhands]
+------------------------
+[Aerys I]
+------------------------
+[Zollo]
+------------------------
+[Lommy]
+------------------------
+[Hoarfrost Umber, Mors Umber, Hother Umber, Jon Umber, Harmond Umber]
+------------------------
+[The Stonehouse, Ralf Stonehouse]
+------------------------
+[Dornish Dilly]
+------------------------
+[Holger]
+------------------------
+[Gorghan of Old Ghis]
+------------------------
+[Rawney]
+------------------------
+[Talea]
+------------------------
+[Harsley]
+------------------------
+[Reysen]
+------------------------
+[Murenmure]
+------------------------
+[Elza]
+------------------------
+[Leo Blackbar]
+------------------------
+[Gerren]
+------------------------
+[Moelle]
+------------------------
+[Emrick]
+------------------------
+[Timon]
+------------------------
+[Meryn Trant]
+------------------------
+[Hake]
+------------------------
+[Lyonel Bentley]
+------------------------
+[Arnell]
+------------------------
+[Errok]
+------------------------
+[Barsena]
+------------------------
+[Frynne]
+------------------------
+[Mycah]
+------------------------
+[Marwyn Belmore, Benedar Belmore]
+------------------------
+[Bethany Fair-Fingers]
+------------------------
+[Big Boil]
+------------------------
+[Nymella Toland]
+------------------------
+[Androw Ashford, Robert Ashford, Plummer, Lord Ashford]
+------------------------
+[Gorne]
+------------------------
+[Eustace]
+------------------------
+[S'vrone]
+------------------------
+[Denestan]
+------------------------
+[Steffon Varner]
+------------------------
+[Darla Deddings]
+------------------------
+[Willam]
+------------------------
+[Jack Bulwer]
+------------------------
+[Cuger]
+------------------------
+[Pate of Shermer's Grove]
+------------------------
+[Steely Pate]
+------------------------
+[Ghost of High Heart]
+------------------------
+[Gared]
+------------------------
+[Unella]
+------------------------
+[Fralegg]
+------------------------
+[Meribald]
+------------------------
+[Marwyn]
+------------------------
+[Glendon Flowers]
+------------------------
+[Rhogoro]
+------------------------
+[Daario Naharis]
+------------------------
+[Gerris Drinkwater]
+------------------------
+[Gerold Grafton, Marq Grafton, Gyles Grafton]
+------------------------
+[Robyn Rhysling]
+------------------------
+[Mezzara]
+------------------------
+[Rusty Flowers]
+------------------------
+[Harodon]
+------------------------
+[Benedict]
+------------------------
+[Dormund]
+------------------------
+[Mern IX Gardener]
+------------------------
+[Cleon]
+------------------------
+[Pate of Lancewood]
+------------------------
+[Norren]
+------------------------
+[Tycho Nestoris]
+------------------------
+[Alia of Braavos]
+------------------------
+[Yoren]
+------------------------
+[Hareth]
+------------------------
+[Simon Toyne, Terrence Toyne]
+------------------------
+[Tybero Istarion]
+------------------------
+[Lord of Bones]
+------------------------
+[Jack Musgood]
+------------------------
+[Rus]
+------------------------
+[Viserys II]
+------------------------
+[Castos]
+------------------------
+[Esgred]
+------------------------
+[Arron Qorgyle, Gulian Qorgyle, Qorgyle, Quentyn Qorgyle]
+------------------------
+[Kedge Whiteye]
+------------------------
+[Soren]
+------------------------
+[Jaehaerys II]
+------------------------
+[Sigfry Stonetree]
+------------------------
+[Salloreon]
+------------------------
+[Wenda]
+------------------------
+[Robert Flowers]
+------------------------
+[Damon Shett]
+------------------------
+[Gormon Tyrell]
+------------------------
+[Dafyn Vance]
+------------------------
+[Trebor Jordayne, Myria Jordayne]
+------------------------
+[Ronnel Harclay]
+------------------------
+[Portifer Woodwright]
+------------------------
+[Jack]
+------------------------
+[Lucas Roote]
+------------------------
+[Orell]
+------------------------
+[Guthor Grimm]
+------------------------
+[Eustace Brune]
+------------------------
+[Quenten Banefort]
+------------------------
+[Mysaria]
+------------------------
+[Turquin]
+------------------------
+[Edric Dayne, Ulrick Dayne, Arthur Dayne, Ashara Dayne, Allyria Dayne, Wylla]
+------------------------
+[Baelor I]
+------------------------
+[Daemon Sand, Ynys Yronwood, Cletus Yronwood, Anders Yronwood, Ormond Yronwood, Archibald Yronwood, Gwyneth Yronwood, Ryon Allyrion, Delonne Allyrion]
+------------------------
+[Hyle Hunt, Alyn Hunt]
+------------------------
+[Steffon Fossoway, Edwyd Fossoway, Bryan Fossoway, Tanton Fossoway]
+------------------------
+[Harrag Sharp, Harmund Sharp, Alvyn Sharp]
+------------------------
+[Aegon III]
+------------------------
+[Melwyn Sarsfield]
+------------------------
+[Thistle]
+------------------------
+[Gergen]
+------------------------
+[Howd]
+------------------------
+[Rolland Uffering, Helicent Uffering]
+------------------------
+[Lucos]
+------------------------
+[Nella]
+------------------------
+[Lanna]
+------------------------
+[Jon Hollard, Dontos Hollard, Steffon Hollard, Symon Hollard, Robin Hollard]
+------------------------
+[Munda]
+------------------------
+[Jynessa Blackmont, Perros Blackmont, Larra Blackmont]
+------------------------
+[Tim Tangletongue]
+------------------------
+[Mazdhan zo Loraq]
+------------------------
+[Cutjack]
+------------------------
+[Sylas Flatnose]
+------------------------
+[Quellon Humble, Will Humble]
+------------------------
+[Dirk]
+------------------------
+[Dalbridge]
+------------------------
+[Walder Vance]
+------------------------
+[Alfyn]
+------------------------
+[Bass]
+------------------------
+[Hibald]
+------------------------
+[Aemon Targaryen]
+------------------------
+[Roger Hogg]
+------------------------
+[Jeffory Mallister, Denys Mallister, Lymond Mallister, Jason Mallister, Patrek Mallister, Joseth Mallister]
+------------------------
+[Aethelmure]
+------------------------
+[Muttering Bill]
+------------------------
+[Willam Wells, Theodan Wells]
+------------------------
+[Jeyne Goodbrook, Lymond Goodbrook, Garse Goodbrook, Walder Goodbrook]
+------------------------
+[Harma]
+------------------------
+[Dorren Stark]
+------------------------
+[Tuffleberry]
+------------------------
+[Rupert Crabb, Dick Crabb, Clarence Crabb, Clement Crabb]
+------------------------
+[Godric Borrell]
+------------------------
+[Kemmett Pyke]
+------------------------
+[Tagganaro]
+------------------------
+[Meg]
+------------------------
+[Ralf]
+------------------------
+[Jeyne Lydden, Lewys Lydden]
+------------------------
+[Pyg]
+------------------------
+[Dick Follard]
+------------------------
+[Hoare]
+------------------------
+[Humfrey Hewett, Falia Flowers, Glendon Hewett]
+------------------------
+[Varys]
+------------------------
+[Garizon]
+------------------------
+[Lister]
+------------------------
+[Richard Farrow]
+------------------------
+[Azzak]
+------------------------
+[Ben Plumm]
+------------------------
+[Addam]
+------------------------
+[Jaqen H'ghar]
+------------------------
+[Mary Mertyns, Michael Mertyns]
+------------------------
+[Belaquo]
+------------------------
+[Bannen]
+------------------------
+[Wun Weg Wun Dar Wun]
+------------------------
+[Sawwood]
+------------------------
+[Melly]
+------------------------
+[Melwys Rivers]
+------------------------
+[Qos]
+------------------------
+[Donnel Hill]
+------------------------
+[Sallor]
+------------------------
+[Three Toes]
+------------------------
+[Harwyn Hoare]
+------------------------
+[Ossy, Myranda Royce, Albar Royce, Carrot, Nestor Royce, Mya Stone, Raymar Royce]
+------------------------
+[Ithoke]
+------------------------
+[Kaeth]
+------------------------
+[Gallard]
+------------------------
+[Lord Staunton, Sefton Staunton, Simon Staunton]
+------------------------
+[Prendahl na Ghezn]
+------------------------
+[Garth of Greenaway]
+------------------------
+[Roryn Drumm, Gormond Drumm, Denys Drumm, Dunstan Drumm, Andrik, Donnel Drumm, Dale Drumm, Hilmar Drumm]
+------------------------
+[Harlan Grandison, Hugh Grandison, Humfrey Wagstaff]
+------------------------
+[Raynard Ruttiger]
+------------------------
+[Ralf the Limper]
+------------------------
+[Jarl]
+------------------------
+[Runciter]
+------------------------
+[Nysterica]
+------------------------
+[Daeron I]
+------------------------
+[Sharna]
+------------------------
+[Sargon Botley, Vickon Botley, Tristifer Botley, Symond Botley, Quellon Botley, Germund Botley, Lucimore Botley, Sawane Botley, Maron Botley, Bennarion Botley, Balon Botley, Harlon Botley, Wex Pyke, Harren Botley]
+------------------------
+[Rowan]
+------------------------
+[Morros Slynt, Danos Slynt, Janos Slynt, Jothos Slynt]
+------------------------
+[Stannis Baratheon]
+------------------------
+[Jyzene]
+------------------------
+[Rodrik Freeborn]
+------------------------
+[Joffrey Caswell, Armond Caswell, Orbert Caswell, Lord Caswell, Lorent Caswell, Cleyton Caswell]
+------------------------
+[Ambrode]
+------------------------
+[Aladale Wynch, Waldon Wynch]
+------------------------
+[Robin Flint, Lyessa Flint]
+------------------------
+[Erreg]
+------------------------
+[Torrhen Stark]
+------------------------
+[Quort]
+------------------------
+[Bloodbeard]
+------------------------
+[Ralph Buckler, Cedrik Storm]
+------------------------
+[Holly]
+------------------------
+[Roro Uhoris]
+------------------------
+[Kym]
+------------------------
+[Rossart]
+------------------------
+[Praed]
+------------------------
+[Dywen]
+------------------------
+[Yorko Terys]
+------------------------
+[Myrtle]
+------------------------
+[Frenken]
+------------------------
+[Coratt]
+------------------------
+[Maris]
+------------------------
+[Lymond Lychester]
+------------------------
+[Goady]
+------------------------
+[Redtusk]
+------------------------
+[Moro]
+------------------------
+[Brogg]
+------------------------
+[Uthor Underleaf]
+------------------------
+[Lucas Codd, Eldred Codd]
+------------------------
+[Jyana, Meera Reed, Jojen Reed, Howland Reed]
+------------------------
+[Ronald Vance, Norbert Vance, Ellery Vance, Hugo Vance, Kirth Vance]
+------------------------
+[Ordello]
+------------------------
+[Gillam]
+------------------------
+[Theon Stark]
+------------------------
+[Vargo Hoat]
+------------------------
+[Philip Foote]
+------------------------
+[Moreo Tumitis]
+------------------------
+[Eden Risley]
+------------------------
+[Watt]
+------------------------
+[Lucamore Strong, Larys Strong, Lyonel Strong, Harwin Strong]
+------------------------
+[Anguy]
+------------------------
+[Henly]
+------------------------
+[Ryam]
+------------------------
+[Durran]
+------------------------
+[Ezzara]
+------------------------
+[Mellos]
+------------------------
+[Hot Pie]
+------------------------
+[Rickard Thorne, Alliser Thorne]
+------------------------
+[Harle]
+------------------------
+[Ralf Kenning, Qarl Kenning]
+------------------------
+[Jonelle Cerwyn, Cley Cerwyn, Medger Cerwyn]
+------------------------
+[Guncer Sunglass, Triston]
+------------------------
+[Jon Bettley]
+------------------------
+[Bhakaz zo Loraq]
+------------------------
+[Othell Yarwyck]
+------------------------
+[Luceon Frey]
+------------------------
+[Robin Moreland]
+------------------------
+[Arlan of Pennytree]
+------------------------
+[Ironbelly]
+------------------------
+[Yohn Farwynd, Ygon Farwynd, Gylbert Farwynd, Gyles Farwynd]
+------------------------
+[Emma]
+------------------------
+[Gendel]
+------------------------
+[Gwayne Gaunt]
+------------------------
+[Eddison Tollet, Uthor Tollett]
+------------------------
+[Quincy Cox]
+------------------------
+[Tom of Sevenstreams]
+------------------------
+[Terrence Kenning, Kennos of Kayce]
+------------------------
+[Wilbert]
+------------------------
+[Bellonara Otherys]
+------------------------
+[Xhondo]
+------------------------
+[Wynafryd Manderly, Wylla Manderly, Theomore Lannister, Donella Hornwood, Halys Hornwood, Daryn Hornwood, Larence Snow, Berena Hornwood, Beren Tallhart, Benfred Tallhart, Leobald Tallhart, Brandon Tallhart, Eddara Tallhart, Helman Tallhart, Wyman Manderly, Wylis Manderly, Leona Woolfield, Wendel Manderly, Marlon Manderly]
+------------------------
+[Armen]
+------------------------
+[Dancy]
+------------------------
+[Rat Cook]
+------------------------
+[Lorcas]
+------------------------
+[Del]
+------------------------
+[Fern]
+------------------------
+[Galladon of Morne]
+------------------------
+[Rosamund Lannister]
+------------------------
+[Hotho Harlaw]
+------------------------
+[Maynard]
+------------------------
+[Val]
+------------------------
+[Henk]
+------------------------
+[Euron Greyjoy]
+------------------------
+[Urras Greyiron]
+------------------------
+[Steffarion Sparr, The Sparr]
+------------------------
+[Aenys I]
+------------------------
+[Drogo]
+------------------------
+[Dan]
+------------------------
+[Harry Strickland]
+------------------------
+[Jenny]
+------------------------
+[Orwyle]
+------------------------
+[Shae]
+------------------------
+[Toregg]
+------------------------
+[Nissa Nissa]
+------------------------
+[Harys Swyft, Joanna Swyft, Addison Hill, Willit, Dorna Swyft, Shierle Swyft, Humfrey Swyft, Jocelyn Swyft, Steffon Swyft]
+------------------------
+[Red Alyn]
+------------------------
+[Maron Greyjoy, Stygg, Dagmer, Harlon Greyjoy, Sigrin, Sylas, Robin Greyjoy, Bluetooth, Qalen, Erik Ironmaker, Urek Ironmaker, Thormor Ironmaker, Dagon Ironmaker, Asha Greyjoy, Dagon Greyjoy, Drennan, Rodrik Greyjoy, Quenton Greyjoy, Rolfe, Theon Greyjoy, Ulf, Squint, Nute, Quellon Greyjoy, Cadwyl, Aeron Greyjoy, Donel Greyjoy, Cragorn, Urrigon Greyjoy, Alannys Harlaw, Rodrik Harlaw, Dykk Harlaw, Theomore Harlaw, Three-Tooth, Gevin Harlaw, Gwynesse Harlaw, Uller, Kromm, Wendamyr, Tymor, Victarion Greyjoy, Wulfe, Rymolf, Ragnor Pyke, Gynir, Urzen, Helya, Werlag, Aggar, Vickon Greyjoy, Gelmarr]
+------------------------
+[Balaq]
+------------------------
+[Dacks, Jasper Redfort, Horton Redfort, Ysilla Royce, Robar Royce, Yohn Royce, Ryella Royce, Roslin Frey, Marissa Frey, Sarra Frey, Benfrey Frey, Bethany Rosby, Sylwa Paege, Bellena Hawick, Martyn Rivers, Bryan Frey, Tysane Frey, Tyta Frey, Janyce Hunter, Alyx Frey, Morya Frey, Flement Brax, Rupert Brax, Robert Brax, Walder Brax, Jon Brax, Tytos Brax, Andros Brax, Kyra Frey, Sandor Frey, Unknown, Ambrose Butterwell, Argrave the Defiant, Tommard Heddle, Haegon Blackfyre, Maelys I Blackfyre, Aegor Rivers, Hendry Bracken, Barba Bracken, Mohor, Bess Bracken, Jayne Bracken, Otho Bracken, Catelyn Bracken, Barbara Bracken, Alysanne Bracken, Kurleket, Jonos Bracken, Lharys, Daemon Blackfyre, Daemon II Blackfyre, Alyn Cockshaw, Aemon Blackfyre, Aegon Blackfyre, Jon Heddle, Cosgrove, Jeyne Beesbury, Bertram Beesbury, Alys Beesbury, Hugh Beesbury, Beony Beesbury, Cyrenna Swann, Johanna Swann, Ravella Swann, Manfred Swann, Gawen Swann, Gulian Swann, Balon Swann, Corenna Swann, Alyssa Blackwood, Lucas Blackwood, Melissa Blackwood, Brynden Blackwood, Tytos Blackwood, Quentyn Blackwood, Perwyn Frey, Arwyn Frey, Lythene Frey, Androw Frey, Danwell Frey, Hoster Frey, Arwood Frey, Osmund Frey, Shirei Frey, Malwyn Frey, Ryger Rivers, Leonella Lefford, Pate, Bennis, Harrold Osgrey, Addam Osgrey, Alysanne Osgrey, Rob, Will, Ormund Wylde, Casper Wylde, Rickard Wylde, Jasper Wylde, Elyana Vypren, Gladden Wylde, Willem Wylde, Gawen Wylde, Tyana Wylde, Lothar Frey, Walder Rivers, Amarei Crakehall, Burton Crakehall, Shiera Crakehall, Amory Lorch, Clegane, Tybolt Lannister, Mallor, Damon Lannister, Ellyn Reyne, Gerold Lannister, Lester, Dunaver, Tyland Lannister, Lyonel, Janei Lannister, Ben, Bethany Bolton, Roger Ryswell, Rodrik Ryswell, Mark Ryswell, Rickard Ryswell, Barbrey Dustin, Harwood Stout, Wynton Stout, Ronnel Stout, Willam Dustin, Roose Ryswell, Dick, Grunt, Ramsay Snow, Damon, Domeric Bolton, Alyn, Rodrik Cassel, Luwin, Kyra, Barth, Daemon Targaryen, Alyn Velaryon, Duncan Targaryen, Murmison, Rhaenyra Targaryen, Maelor Targaryen, Jon Connington, Rhaelle Targaryen, Cassana Estermont, Lyonel Baratheon, Orys Baratheon, Rhae Targaryen, Yandry, Wate, Reznak mo Reznak, Willem Darry, Daenerys Targaryen, Ricasso, Lewyn Martell, Arianne Martell, Sarella Sand, Gascoyne, Oberyn Nymeros Martell, Morra, Trystane Martell, Bors, Loreza Sand, Manfrey Martell, Myles, Catelyn Stark, Sansa Stark, Rodrik Stark, Skittrick, Brandon Stark, Eddard Stark, Poxy Tym, Gage, Rickard Stark, Edwyn Stark, Brienne of Tarth, Alysanne Tarth, Selwyn Tarth, Roelle, Endrew Tarth, Goodwin, Arianne Tarth, Galladon Tarth, Donnor Stark, Osha, Calon, Quent, Bandy, Gariss, Beron Stark, Joseth, Hallis Mollen, Wayn, Jorah Stark, Rickon Stark, Benjen Stark, Heward, Desmond, Karlon Stark, Eddard Karstark, Rickard Karstark, Cregan Karstark, Arnolf Karstark, Arthor Karstark, Alys Karstark, Sigorn, Torrhen Karstark, Harrion Karstark, Edwyle Stark, Eyron Stark, Walton Stark, Edderion Stark, Willam Stark, Jonnel Stark, Porther, Walder, Palla, Cregan Stark, Cayn, Syrio Forel, Donnis, Lyanna Stark, Jonos Stark, Alebelly, Jacks, Hayhead, Jon Snow, Hullen, Rodwell Stark, Edrick Stark, Barthogan Stark, Tomard, Mikken, Mordane, Turnip, Jon Stark, Artos Stark, Shyra, Wyl, Farlen, Nan, Harwin, Varly, Murch, Jeyne Westerling, Eleyna Westerling, Elys Westerling, Raynald Westerling, Ormond Westerling, Rollam Westerling, Sybell Spicer, Samwell Spicer, Rolph Spicer, Harrold Westerling, Gawen Westerling, Tal Toraq, Doreah, Aggo, Brynden Rivers, Yorkel, Morgil Hastwyck, Saera Targaryen, Rhaego, Jaehaerys Targaryen, Aemond Targaryen, Grey Worm, Groleo, Daeron Targaryen, Aerion Targaryen, Pycelle, Ermesande Hayford, Benedict Broom, Emmon Frey, Tyrek Lannister, Lucion Lannister, Rohanne Webber, Reynard Webber, Wendell Webber, Wolmer, Lucas Inchfield, Cerrick, Jorgen, Owen Inchfield, Gregor Clegane, Eggon, Tobbot, Chiswyck, The Tickler, Dunsen, Rafford, Sandor Clegane, Hoke, Tya Lannister, Edric Storm, Jommy, Steffon Baratheon, Brella, Harra, Walter Whent, Pia, Oswell Whent, Lucan, Willis Wode, Amabel, Weese, Joy Hill, Joanna Lannister, Tygett Lannister, Senelle, Willem Lannister, Tregar, Lancel Lannister, Kevan Lannister, Darlessa Marbrand, Addam Marbrand, Damon Marbrand, Lorent Marbrand, Jason Lannister, Jodge, Dake, Ormond Osgrey, Sam Stoops, Mudge, Wilbert Osgrey, Wat, Margaery Tyrell, Janna Tyrell, Lucas Tyrell, Leona Tyrell, Mace Tyrell, Erryk, Willas Tyrell, Leo Tyrell, Garrett Flowers, Victor Tyrell, Garth Tyrell, Mina Tyrell, Hobber Redwyne, Ryam Redwyne, Olenna Redwyne, Megga Tyrell, Loras Tyrell, Olymer Tyrell, Elyn Norridge, Lorent Tyrell, Olene Tyrell, Arryk, Igon Vyrwel, Quentin Tyrell, Elinor Tyrell, Victaria Tyrell, Lia Serry, Osbert Serry, Talbert Serry, Garse Flowers, Moryn Tyrell, Lysa Meadows, Elwood Meadows, Richard Horpe, Salladhor Saan, Corliss Penny, Humfrey Clifton, Gareth Clifton, Jeyne Farman, Sebaston Farman, Godry Farring, Bryen Farring, Gilbert Farring, Annara Farring, Merrett Frey, Jeyne Rivers, Serra Frey, Harys Haigh, Donnel Haigh, Perriane Frey, Leslyn Haigh, Walder Haigh, Alyn Haigh, Merianne Frey, Sallei Paege, Damon Paege, Harbert Paege, Robert Paege, Halmon Paege, Garrett Paege, Zia Frey, Marsella Waynwood, Wallace Waynwood, Elys Waynwood, Carolei Waynwood, Alys Arryn, Becca, Harrold Hardyng, Jasper Arryn, Rodrik Arryn, Colemon, Jon Arryn, Mord, Jeyne Arryn, Aemma Arryn, Baelon Targaryen, Haldon, Laena Velaryon, Monterys Velaryon, Corlys Velaryon, Laenor Velaryon., Daella Targaryen, Elbert Arryn, Denys Arryn, Robert Arryn, Lysa Arryn, Bryen, Grisel, Morgarth, Umfred, Byron, Petyr Baelish, Lothor Brune, Oswell Kettleblack, Osney Kettleblack, Osmund Kettleblack, Osfryd Kettleblack, Shadrich, Bennard Brune, Kella, Medgar Tully, Edmyn Tully, Hoster Tully, Delp, Poul Pemford, Brynden Tully, Hugh, Mela, Jeyne Royce, Kyle Royce, Samwell Stone, Andar Royce, Waymar Royce, Perra Royce, Mylenda Caron, Bryce Caron, Shireen Baratheon, Lewys, Davos Seaworth, Maric Seaworth, Stannis Seaworth, Allard Seaworth, Marya Seaworth, Dale Seaworth, Devan Seaworth, Matrice, Dermot, Myrcella Baratheon, Orland of Oldtown, Moon Boy, Tallad, Eglantine, Rolland Storm, Patchface, Justin Massey, Selyse Florent, Rylene Florent, Colin Florent, Melessa Florent, Samwell Tarly, Talla Tarly, Eleanor Mooton, William Mooton, Myles Mooton, Randyll Tarly, Dickon Tarly, Merrell Florent, Melara Crane, Parmen Crane, Vortimer Crane, Meredyth Crane, Rycherd Crane, Alekyne Florent, Delena Florent, Hosman Norcross, Bayard Norcross, Jeffory Norcross, Alester Norcross, Renly Norcross, Axell Florent, Imry Florent, Ryam Florent, Alester Florent, Rhea Florent, Baelor Hightower, Leyton Hightower, Lynesse Hightower, Leyla Hightower, Gunthor Hightower, Quenton Hightower, Gwayne Hightower, Gerold Hightower, Otto Hightower, Runcel Hightower, Rhaena Targaryen, Lyonel Corbray, Lyn Corbray, Lucas Corbray, Baelish, Gwayne Corbray, Aegon Targaryen, Skahaz mo Kandaq, Rolly Duckfield, Visenya Targaryen, Daena Targaryen, Irri, Elaena Targaryen, Jon Penrose, Aelinor Penrose, Addam Velaryon, Aurane Waters, Baela Targaryen, Symon Stripeback, Matarys Targaryen, Baelor Targaryen, Elia Martell, Cedra, Obella Sand, Timoth, Tyene Sand, Nymeria, Obara Sand, Mors Martell, Mellario, Belandra, Elia Sand, Maron Nymeros Martell, Doran Martell, Ellaria Sand, Ulwyck Uller, Harmen Uller, Caleotte, Dorea Sand, Areo Hotah, Mellei, Nymeria Sand, Quentyn Martell, Mariah Martell, Mushroom, Naerys Targaryen, Barristan Selmy, Arstan Selmy, Lyonel Selmy, Illyrio Mopatis, Red Lamb, Kiera of Tyrosh, Alicent Hightower, Denyse Hightower, Alysanne Hightower, Arthur Ambrose, Edmund Ambrose, Alyn Ambrose, Aubrey Ambrose, Garth Hightower, Abelar Hightower, Alerie Hightower, Theodore Tyrell, Rickard Tyrell, Raymund Tyrell, Luthor Tyrell, Butterbumps, Willam Wythers, Ottyn Wythers, Alla Tyrell, Harlen Tyrell, Lyonel Tyrell, Jhogo, Belwas, Jhiqui, Shiera Seastar, Missandei, Rakharo, Jaehaera Targaryen, Rhaegel Targaryen, Helaena Targaryen, Rhaegar Targaryen, Rhaella Targaryen, Viserys Targaryen, Valarr Targaryen, Jorah Mormont, Jeor Mormont, Maege Mormont, Dacey Mormont, Lyra Mormont, Jorelle Mormont, Lyanna Mormont, Alysane Mormont, Rhaenys Targaryen, Monford Velaryon, Vaemond Velaryon, Qarl Correy, Cortnay Penrose, Viserys Plumm, Philip Plumm, Maynard Plumm, Harwyn Plumm, Peter Plumm, Dennis Plumm, Ossifer Plumm, Mors Manwoody, Myles Manwoody, Dickon Manwoody, Dagos Manwoody, Erren Florent, Robin Peasebury, Hal, Clayton Suggs, Dalla, Omer Blackberry, Jate Blackberry, Bryen Caron, Pearse Caron, Steffon Seaworth, Matthos Seaworth, Joyeuse Erenford, Elmar Frey, Amerei Frey, Bradamar Frey, Aegon Frey, Wendel Frey, Cersei Frey, Betharios, Walton Frey, Raymund Frey, Ryella Frey, Brenett, Tywin Frey, Alesander Frey, Jammos Frey, Robert Frey, Maegelle Frey, Zachery Frey, Edwyn Frey, Aemon Rivers, Alyn Frey, Steffon Frey, Franklyn Frey, Cynthea Frey, Mariya Darry, Lyman Darry, Raymun Darry, Jonothor Darry, Jeyne Darry, Leana Frey, Dickon Frey, Petyr Frey, Symond Frey, Rhaegar Frey, Jyanna Frey, Jared Frey, Della Frey, Theo Frey, Alys Frey, Tion Frey, Morrec, Rolder, Shortear, Margot Lannister, Gormon Peake, Titus Peake, Damion Lannister, Cersei Lannister, Tywin Lannister, Genna Lannister, Vylarr, Lum, Lanna Lannister, Antario Jast, Dorcas, Myrielle Lannister, Cerenna Lannister, Stafford Lannister, Gerion Lannister, Cadwyn, Tyrion Lannister, Jaime Lannister, Jyck, Qyburn, Puckens, Daven Lannister, Cleos Frey, Mathis Frey, Tytos Frey, Olyvar Frey, Addam Frey, Mellara Rivers, Emberlei Frey, Ryman Frey, Jaime Frey, Stevron Frey, Sarya Whent, Shella Whent, Minisa Whent, Elwood, Robin Ryger, Tristan Ryger, Edmure Tully, Utherydes Wayn, Enger, Lew, TomToo, Wynafrei Whent, Walda Rivers, Waltyr Frey, Ronel Rivers, Willem Frey, Lyonel Frey, Walder Frey, Jonos Frey, Walda Frey, Heke, Nage, Luton, Walton, Roose Bolton, Skinner, Geremy Frey, Whalen Frey, Deana Hardyng, Humfrey Hardyng, Aenys Frey, Hosteen Frey, Perra Frey, Colmar Frey, Godwyn, Tytos Lannister, Lann, Martyn Lannister, Rhea Royce, Maddy, Alyssa Arryn, Gretchel, Vardis Egen, Anya Waynwood, Morton Waynwood, Wyl Waynwood, Jasper Waynwood, Donnel Waynwood, Paxter Redwyne, Horas Redwyne, Bethany Redwyne, Mathis Rowan, Rhonda Rowan, Denys Redwyne, Ballabar, Desmond Redwyne, Jon Fossoway, Raymun Fossoway, Jeyne Fossoway, Eustace Osgrey, Edwyn Osgrey, Perwyn Osgrey, Lem, Jeyne, Harbert, Argella Durrandon, Barra, Renly Baratheon, Donal Noye, Gowen Baratheon, Colen of Greenpools, Elenei, Polliver, Joss Stilwood, Andrew Estermont, Aemon Estermont, Eldon Estermont, Lomas Estermont, Alyn Estermont, Sylva Santagar, Aron Santagar, Symon Santagar, Ronald Storm, Ronald Connington, Alyn Connington, Ronnet Connington, Jory Cassel, Martyn Cassel, Beth Cassel, Robb Reyne, Lorent Lorch, Sumner Crakehall, Clarent Crakehall, Tybolt Crakehall, Lyle Crakehall, Roland Crakehall, Melesa Crakehall, Merlon Crakehall, Jon Wylde, Damon Vypren, Lucias Vypren, Alysanne Lefford, Lorimer, Leo Lefford, Donnel Swann, Jeyne Swann, Carellen Smallwood, Theomar Smallwood, Myles Smallwood, Lyman Beesbury, Humfrey Beesbury, Warryn Beesbury, Eustace Hunter, Gilwood Hunter, Harlan Hunter, Eon Hunter, Gyles Rosby, Jon Redfort, Creighton Redfort, Mychel Redfort]
+------------------------
