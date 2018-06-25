@@ -1,0 +1,55 @@
+{'Alannys Harlaw': 870, 
+'Amory Lorch': 870, ****
+'Argella Durrandon': 870, 
+'Barristan Selmy': 870, ****
+'Bethany Redwyne': 870, 
+'Darlessa Marbrand': 870, 
+'Janna Tyrell': 870, 
+'Lothor Brune': 870, 
+'Robin Ryger': 870, '
+Rodrik Cassel': 870, ****
+'Jorah Mormont': 870, ****
+'Alyssa Blackwood': 870, 
+'Berena Hornwood': 870, 
+'Bethany Rosby': 870, 
+'Brienne of Tarth': 870, ****
+'Cassana Estermont': 870, 
+'Delena Florent': 870, 
+'Donella Hornwood': 870, 
+'Elyana Vypren': 870, 
+'Falyse Stokeworth': 870, 
+'Harys Haigh': 870, 
+'Janyce Hunter': 870, 
+'Leonella Lefford': 870, 
+'Melessa Florent': 870, ****
+'Morya Frey': 870, 
+'Sybelle Glover': 870, 
+'Alys Karstark': 870, ****
+'Ellaria Sand': 870, ****
+'Jeyne Westerling': 870, ****
+'Jon Connington': 870, 
+'Karlon Stark': 870, 
+'Lanna Lannister': 870, '
+Lia Serry': 870, 
+'Margot Lannister': 870, 
+'Oswell Kettleblack': 870, 
+'Ravella Swann': 870, 
+'Elaena Targaryen': 871, 
+'Aegor Rivers': 870, 
+'Alysanne Hightower': 870, 
+'Barbrey Dustin': 870, 
+'Bethany Bolton': 870, 
+'Eleanor Mooton': 870, 
+'Ellyn Reyne': 870, 
+'Harwood Stout': 870, 
+'Jeyne Farman': 870, 
+'Rhaena Targaryen': 870, 
+'Sylva Santagar': 870, 
+'Willam Wythers': 870, 
+'Ysilla Royce': 870, 
+'Lucas Inchfield': 870, 
+'Rohanne Webber': 870, 
+'Tommard Heddle': 871, 
+'Unknown': 870, 
+Ynys Yronwood': 870, 
+'Humfrey Clifton': 870}
