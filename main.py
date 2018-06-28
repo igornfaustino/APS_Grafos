@@ -44,7 +44,7 @@ maior_char = ''
 for character in characters_valid:
     new_gp = copy.deepcopy(gp)
     new_gp.remove_vertex(new_gp.get_vertex(character['name']))
-    components = new_gp.getSCCs
+    components = new_gp.getSCCs()
     if len(components) > maior:
         maior = len(components)
         maior_char = character['name']
